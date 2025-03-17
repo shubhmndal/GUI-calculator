@@ -61,7 +61,7 @@ This is a simple **Graphical User Interface (GUI) Calculator** built using Pytho
 ## **Contact**
 For questions or feedback, feel free to reach out:
 - **Shubh Mandal**
-- **GitHub**: [your-shubhmndal](https://github.com/shubhmndal)
+- **GitHub**: [shubhmndal](https://github.com/shubhmndal)
 
 ---
 
